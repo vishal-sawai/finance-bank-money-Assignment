@@ -1,4 +1,4 @@
-import React, { FC } from 'react';
+import { FC } from 'react';
 import FeaturesPhone from '/images/Features_Phones.png';
 import { PiStarFourBold, PiCubeTransparent } from "react-icons/pi";
 import SvgComponent1 from './SvgComponent1';

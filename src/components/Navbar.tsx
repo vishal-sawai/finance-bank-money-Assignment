@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import logo from '/logo.png'; // Make sure to add your logo image in the src folder
 
 const Navbar = () => {
